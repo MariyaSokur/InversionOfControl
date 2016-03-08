@@ -1,0 +1,3 @@
+Tue Mar 08 2016 19:28:40 GMT+0200 (Финляндия (зима))fs
+hello from app 
+application.jsTue Mar 08 2016 19:28:40 GMT+0200 (Финляндия (зима))3 task: name of file appapplication.js
